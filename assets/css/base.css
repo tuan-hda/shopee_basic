@@ -118,7 +118,7 @@ html {
   text-decoration: none;
   outline: none;
   height: 34px;
-  width: 100px;
+  min-width: 100px;
   background-color: var(--white-color);
   border: none;
   color: var(--black-color);

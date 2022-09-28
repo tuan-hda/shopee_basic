@@ -19,10 +19,11 @@
 html {
   font-size: 62.5%;
   line-height: 1.6rem;
-  font-family: 'Helvetica Neue', sans-serif;
+  font-family: "Helvetica Neue", sans-serif;
   box-sizing: border-box;
 }
 
+/* Responsive */
 .grid {
   width: 1200px;
   max-width: 100%;
